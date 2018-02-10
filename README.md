@@ -2,13 +2,15 @@
    <img src="./imgs/dx_logo.png" alt="Data-X Instructors" alt="data-x logo" title="Data-x" align="bottom-right" height="100" />
 </a>
 
-## [Official Website: Secure your ticket](http://dataxprague.cz/)
 
 2 Day Masterclass at the University of Economics, Prague
 ======================
 
 
 ### April 26 - 27, 2018
+
+
+### [Official Website: Secure your ticket](http://dataxprague.cz/)
 
 This is the official Github repository for the 2 day Masterclass.
 
