@@ -26,7 +26,7 @@ This is the official Github repository for the 2 day Masterclass.
 ## 📚 Resources
 
 * ### [Dropbox Link to all Material](https://www.dropbox.com/sh/i5cjhvqeing9gx0/AAAd_OlM_xL3YEuYg2c9HvXMa?dl=0)
-* ### <a href='https://join.slack.com/t/dataxhkbu/shared_invite/enQtMzAyMDE2MjE0NDM1LTFmNjk1NDkzZTkyYzM3NzliOGU5NGJiNDBkMGM5ODVhNjMzMzQwZGFkNTkyNGQwOTQwMWMwYmNkZWFmMTEyNDk' target='_blank'> `dataXhkbu` Slack Channel   <img src='./imgs/slack.png' width='16px'></a>
+* ### <a href='https://join.slack.com/t/dataxprague/shared_invite/enQtMzE0MTExNDU2MzQyLTlkOGIxNzVhY2Q1YjUyNzAxODc4NWViOWMzOGExNTlhNjhiNTc1YzhjOGNhODUyMGQ0MzA1Y2RhOGVhYTIxYmI' target='_blank'> `dataXprague` Slack Channel   <img src='./imgs/slack.png' width='16px'></a>
 * ### [Data-X Official Website](https://data-x.blog/)
 * ##### [Data-X Network](https://data-x.blog/advisors/)
 * ##### [Data-X Resources](https://data-x.blog/resources/)
