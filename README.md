@@ -38,7 +38,7 @@ This is the official Github repository for the 2 day Masterclass.
 To download this Github repository just press the green `Clone or Download` button to the top right.
 
 <p align='center'>
-   <img src="./imgs/zip.png" alt="download" width='250px'>
+   <img src="./imgs/zip.png" alt="download" width='500px'>
 </p>
 <br>
 
@@ -69,7 +69,7 @@ To download the material to your computer please [Install git](https://git-scm.c
 git clone https://github.com/afo/dataXprague/
 ```
 
-Every time the repository is updated, to get the most recent version, `cd` to the cloned `dataXhkbu` folder and run:
+Every time the repository is updated, to get the most recent version, `cd` to the cloned `dataXprague` folder and run:
 
 ```bash
 git pull
