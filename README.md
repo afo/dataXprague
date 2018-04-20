@@ -33,7 +33,7 @@ This is the official Github repository for the 2 day Masterclass.
 * ##### [Data-X Projects](https://data-x.blog/projects/)
 
 
-### Download the class material
+### Download the Masterclass material
 
 To download this Github repository just press the green `Clone or Download` button to the top right.
 
