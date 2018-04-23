@@ -54,7 +54,7 @@ ___
 :--|:--|:-
 **Session1** <br> 9.00 - 10.20am | Program Introduction with Objectives (20mins)<br><br>Executive Level Overview of AI, ML, and Research (40mins)<br><br>Introduction to tools and installations (20mins) | Standard AI Development Stack: Numpy, pandas, matplotlib (40mins)<br><br>Getting and Working with Data (40mins)
 10.20 - 10.40am | *Coffee Break* | *Coffee Break*
-**Session2** <br> 10.40 - noon | **Define Projects:**<br>A. Learning Basics<br>B. Defining Work Project<br>C. Improving Existing Project<br><br>Finalize projects |Architecture Discussion and Feedback with Lowtech demo presentations (80mins)
+**Session2** <br> 10.40 - noon | **Define Projects:**<br>A. Learning Basics<br>B. Defining Work Project<br>C. Improving Existing Project<br><br>Finalize projects | **Project finalization**<br>Architecture Discussion and Feedback<br>+ Lowtech demo presentations (80mins)
 **Lunch** <br> 12.00 - 1.30pm | *Possible Discussion and Work Session* | *Possible Discussion and Work Session*
 **Session3** <br> 1.30 - 3.00pm | Innovation Leadership Overview (40mins)<br><br> Realizing Blockchain's value: Bitcoin an indepth case study (50 mins) | **Advanced Topics**<br>Neural Networks, TensorFlow, Computer Vision, Keras and Cats vs Dogs! (50mins)<br><br Strategies and tools to handle Big Data<br>- Spark, pyspark, Databricks, and AWS (30mins)
 3.00 - 3.30pm | *Coffee Break* | *Coffee Break*
