@@ -2,6 +2,8 @@
 
 **The intro notebook being run notebook presented here (not interactive)**: [HTML version of Intro Notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/634487280343792/1515220293376006/7985151593079549/latest.html)
 
+-----------
+
 We will work with Databricks Community platform in order to get to know the basics of Spark and big data processing / querying.
 
 Register a free **Databricks Community account** here (press *Get Started* under *Community Edition*):
