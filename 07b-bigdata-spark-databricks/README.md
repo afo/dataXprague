@@ -2,7 +2,7 @@
 
 We will work with Databricks Community platform in order to get to know the basics of Spark and big data processing / querying.
 
-Register a free **Databricks Community account** here (press Get Started under Community):
+Register a free **Databricks Community account** here (press *Get Started* under *Community Edition*):
 ### [https://databricks.com/try](https://databricks.com/try)
 
 .
