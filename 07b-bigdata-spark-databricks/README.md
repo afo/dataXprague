@@ -7,7 +7,7 @@ Register a free **Databricks Community account** here (press *Get Started* under
 
 The notebooks we are going to work with are uploaded into this folder. Download them to your local computer and then upload them to Databricks, by following the steps in the pictures below:
 
-1. Press the down arrow when you have opened your `Workspace`.
+1. Press the down arrow when you have opened your `Workspace` and press **`Import`**.
 
 ![db](imgs/db1.png)
 
