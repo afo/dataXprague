@@ -26,7 +26,7 @@ This is the official Github repository for the 2 day Masterclass.
 ## 📚 Resources
 
 * ## [Install Instructions and Prep Material](https://github.com/afo/dataXprague/blob/master/install-instructions/setup-installation-prague-masterclass.pdf)
-* ### <a href='https://join.slack.com/t/dataxprague/shared_invite/enQtMzE0MTExNDU2MzQyLTlkOGIxNzVhY2Q1YjUyNzAxODc4NWViOWMzOGExNTlhNjhiNTc1YzhjOGNhODUyMGQ0MzA1Y2RhOGVhYTIxYmI' target='_blank'> `dataXprague` Slack Channel   <img src='./imgs/slack.png' width='16px'></a>
+* ### <a href='https://join.slack.com/t/dataxprague/shared_invite/enQtMzUzMzkwMDkxMzgwLTAyMzlmODhlNDQzMTU1ZjQ2MWE2ZDRiZmVlNzJkNDRjZDg3ODIyNzJhNDQ5YjExYzdiN2RiZjg5YzI0MzY1OTM' target='_blank'> `dataXprague` Slack Channel   <img src='./imgs/slack.png' width='16px'></a>
 * ### [Data-X Official Website](https://data-x.blog/)
 * ##### [Data-X Network](https://data-x.blog/advisors/)
 * ##### [Data-X Resources](https://data-x.blog/resources/)
